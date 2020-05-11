@@ -41,6 +41,8 @@ Open in browser:
 
 - [localhost:3000/](http://localhost:3000/)
 
+See more commands covered in the [Bootstrapped Readme](bootstrapped_readme.md).
+
 
 ## Create a fresh project.
 
