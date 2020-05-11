@@ -1,5 +1,5 @@
 # React Create App Quickstart
-Based on the React Create App template
+> Based on the React Create App template
 
 
 ## Resources
