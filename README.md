@@ -1,5 +1,5 @@
 # React Create App Quickstart
-> Based on the React Create App template
+> Skeleton of a React app - based on the React Create App template
 
 
 ## About
@@ -124,4 +124,4 @@ Deploy a static site referencing that directory.
 
 ## License
 
-No license until I can figure out how the create quick start from React should be licensed.
+No license until I can figure out how the create quick start from React should be licensed. And if I should use the original NPM package's license as this is a major part.
