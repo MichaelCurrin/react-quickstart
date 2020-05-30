@@ -22,7 +22,7 @@ If you make changes in the app, the browser will update to show the latest page.
 See more commands covered in the [Bootstrapped Readme](bootstrapped_readme.md).
 
 
-## Tests
+## Run tests
 
 - Yarn
     ```sh
@@ -32,3 +32,16 @@ See more commands covered in the [Bootstrapped Readme](bootstrapped_readme.md).
     ```sh
     $ npm test
     ```
+
+Sample output:
+
+```
+ PASS  src/App.test.js
+  ✓ renders Hello world (36ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       1 passed, 1 total
+Snapshots:   0 total
+Time:        4.116s
+Ran all test suites related to changed files.
+```

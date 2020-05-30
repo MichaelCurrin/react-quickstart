@@ -37,6 +37,7 @@ $ cd my-app
 $ npm start
 ```
 
+
 ## Resources
 
 - [React](https://reactjs.org/) homepage
@@ -48,6 +49,11 @@ $ npm start
 
 - It is better to set state through a method rather than by changing state directly.
 - The Foo component is based on part of this video: [Get started with React in under 10 minutes](https://youtu.be/K02AkMbV1HM)
+- This project uses 3 main dependencies, which were included with the quickstart
+    - `react` - for the core application.
+    - `react-dom` - for using `ReactDom` in [App.js](/src/App.js).
+    - `react-scripts` - used to setup the `script` commands in [package.json](/package.json).
+- There are 3 testing libraries - these were moved to dev dependencies.
 
 
 ## License
