@@ -7,12 +7,18 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <h1>Hello, world!</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          GitHub repo:{' '}
+          <a
+            className="App-link"
+            href="https://github.com/MichaelCurrin/react-create-app-quickstart"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            MichaelCurrin/react-create-app-quickstart
+          </a>
         </p>
-        <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-          Hello, world!
-        </a>
       </header>
     </div>
   );
