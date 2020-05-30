@@ -20,9 +20,9 @@ See [docs](/docs/README.md).
 
 ## How it works
 
-- React's `.js` or `.jsx` files cannot be run directly - you need to use Babel as part of React's install and run flow.
-- A React app typically runs as a Node.js server, especially locally.
-- The app can be compiled to a build directory for running as a static site - this means you can deploy to GitHub Pages or Netlify.
+- A React app typically runs as a Node.js server, especially locally. This uses a compile step and runs from memory - there is no _build_ directory used.
+- The app can be compiled to a _build_ directory for running as a static site - this means you can deploy to GitHub Pages or Netlify.
+- React uses `.js` or `.jsx` files with _JSX_ syntax (HTML inside JavaScript). These cannot be run directly. But these are transpiled (or compiled) to plain JavaScript by the `react-script build` command. Babel is used for that transpiling, but it is not necessary to use specify it directory as it is covered through the direct dependencies.
 
 
 ## Create a fresh project
