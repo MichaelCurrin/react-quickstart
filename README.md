@@ -9,23 +9,23 @@
 - Instructions are provided to create an fresh app or use create a Github repo immediately using this template.
 
 
-### How it runs
+## Documentation
+
+Follow the setup instructions using this repo a template copied to your own repos.
+
+Then you can run a start command to build and run the app, then you can view the app in the browser.
+
+See [docs](/docs/README.md).
+
+
+## How it works
 
 - React's `.js` or `.jsx` files cannot be run directly - you need to use Babel as part of React's install and run flow.
 - A React app typically runs as a Node.js server, especially locally.
 - The app can be compiled to a build directory for running as a static site - this means you can deploy to GitHub Pages or Netlify.
 
 
-## Get a React project
-
-### Use this template
-
-Click the button on the repo.
-
-Follow the install and usage instructions below in [Run locally](#run-locally)
-
-
-### Create a fresh project
+## Create a fresh project
 
 From [Getting started](https://create-react-app.dev/docs/getting-started/).
 
@@ -37,89 +37,17 @@ $ cd my-app
 $ npm start
 ```
 
-
-### Resources
+## Resources
 
 - [React](https://reactjs.org/) homepage
 - [react](https://www.npmjs.com/package/react) package on NPM
 - [create-react-app.dev](https://create-react-app.dev/)
 
 
-## Run locally
+## Dev notes
 
-Yarn and NPM are both covered here. Choose one.
-
-
-### Installation
-> How to setup the app locally
-
-#### Install system dependencies
-
-- Yarn approach: Follow this [Install Yarn](https://gist.github.com/MichaelCurrin/bdc34c554fa3023ee81449eb77375fcb) guide.
-- NPM approach: Follow this [Install Node.js](https://gist.github.com/MichaelCurrin/aa1fc56419a355972b96bce23f3bccba) guide.
-
-
-#### Clone
-
-- Clone this repo directly.
-    ```sh
-    $ git clone git@github.com:MichaelCurrin/react-create-app-quickstart.git
-    ```
-- Or click "Use this template" on repo to add copy to your own Github repos then clone that.
-    ```sh
-    $ git clone MY_GIT_REPO
-    ```
-
-```sh
-$ cd react-create-app-quickstart
-```
-
-#### Install project dependencies
-
-- Yarn
-    ```sh
-    $ yarn install
-    ```
-- NPM
-    ```sh
-    $ npm start
-    ```
-
-### Usage
-> How to start the app locally
-
-You can also do this directly without first running the install above.
-
-- Yarn
-    ```sh
-    $ yarn start
-    ```
-- NPM
-    ```sh
-    $ npm start
-    ```
-
-Open in browser:
-
-- [localhost:3000/](http://localhost:3000/)
-
-See more commands covered in the [Bootstrapped Readme](bootstrapped_readme.md).
-
-
-## Deploy
-
-- Yarn
-    ```sh
-    $ yarn build
-    ```
-- NPM
-    ```sh
-    $ npm build
-    ```
-
-Check the results in the `build` directory.
-
-Deploy a static site referencing that directory.
+- It is better to set state through a method rather than by changing state directly.
+- The Foo component is based on part of this video: [Get started with React in under 10 minutes](https://youtu.be/K02AkMbV1HM)
 
 
 ## License
