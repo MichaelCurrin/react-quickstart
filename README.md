@@ -1,5 +1,5 @@
 # React Create App Quickstart
-> Skeleton of a React app - based on the React Create App template
+> Template for a minimal React app
 
 
 ## About
