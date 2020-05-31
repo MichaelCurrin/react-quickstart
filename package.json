@@ -13,10 +13,10 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "build": "react-scripts build"
   },
+  "homepage": "https://michaelcurrin.github.io/react-create-app-quickstart/",
   "eslintConfig": {
     "extends": "react-app"
   },
