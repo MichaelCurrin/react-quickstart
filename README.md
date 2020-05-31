@@ -34,6 +34,15 @@ See [docs](/docs/README.md).
 - React uses `.js` or `.jsx` files with _JSX_ syntax (HTML inside JavaScript). These cannot be run directly. But these are transpiled (or compiled) to plain JavaScript by the `react-script build` command. Babel is used for that transpiling, but it is not necessary to use specify it directory as it is covered through the direct dependencies.
 
 
+## Resources
+
+- [React](https://reactjs.org/) homepage
+- [react](https://www.npmjs.com/package/react) package on NPM
+- [create-react-app.dev](https://create-react-app.dev/) homepage
+    - [Getting started](https://create-react-app.dev/docs/getting-started/)
+- [facebook/create-react-app](https://github.com/facebook/create-react-app) repo
+
+
 ## Create a fresh project
 
 This project used skeleton setup generated below as a starting point.
@@ -77,18 +86,9 @@ $ npm start
 ```
 
 
-## Resources
-
-- [React](https://reactjs.org/) homepage
-- [react](https://www.npmjs.com/package/react) package on NPM
-- [create-react-app.dev](https://create-react-app.dev/) homepage
-    - [Getting started](https://create-react-app.dev/docs/getting-started/)
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) repo
-
-
 ## Development
 
-### Notes
+Notes about this project.
 
 - It is better to set state through a method rather than by changing state directly.
 - The Foo component is based on part of this video: [Get started with React in under 10 minutes](https://youtu.be/K02AkMbV1HM)
