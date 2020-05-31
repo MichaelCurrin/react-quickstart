@@ -17,6 +17,10 @@
     "build": "react-scripts build"
   },
   "homepage": "https://michaelcurrin.github.io/react-create-app-quickstart/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelcurrin/react-create-app-quickstart.git"
+  },
   "eslintConfig": {
     "extends": "react-app"
   },
