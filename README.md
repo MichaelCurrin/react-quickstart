@@ -1,7 +1,7 @@
 # React Create App Quickstart
 > Minimal React app template that uses CI to deploy to Github Pages
 
-![Deploy React app](https://github.com/MichaelCurrin/react-create-app-quickstart/workflows/GH%20Pages%20Deploy/badge.svg)
+[![Deploy React app](https://github.com/MichaelCurrin/react-create-app-quickstart/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/MichaelCurrin/react-create-app-quickstart/actions)
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/react-create-app-quickstart)](https://github.com/MichaelCurrin/react-create-app-quickstart/tags/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 
