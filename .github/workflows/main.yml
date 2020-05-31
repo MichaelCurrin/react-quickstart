@@ -17,10 +17,16 @@ jobs:
         persist-credentials: false
 
     - name: Install 🔧
-      run: |
-        yarn install
+      run: yarn install
+    
+    - name: Test ✅
+      run: yarn test
 
     - name: Build 🏗️
-      run: |
-        yarn run build
+      run: yarn run build
      
+    - name: Deploy to GH Pages 🚀
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./build
