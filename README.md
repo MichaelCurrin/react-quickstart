@@ -55,6 +55,13 @@ $ npm start
     - `react-dom` - for using `ReactDom` in [App.js](/src/App.js).
     - `react-scripts` - used to setup the `script` commands in [package.json](/package.json).
 - There are 3 testing libraries - these were moved to dev dependencies.
+- When running the `build` command, the `NODE_ENV` value will be set to `production` by React - see [React docs - Adding custom env variables](https://create-react-app.dev/docs/adding-custom-environment-variables/).
+- Homepage
+    - The `homepage` value is set `package.json` and used on the build - see `index.html` in the output includes `src="/react-create-app-quickstart/static/js/..."` for example.
+    - This is necessary for GH Pages build to work correctly on a subpath.
+    - It doesn't seem to matter whether the value is just `/react-create-app-quickstart/` or the full `https://michaelcurrin.github.io/react-create-app-quickstart/`.
+    - Customize this value for other repos.
+
 
 
 ## License
