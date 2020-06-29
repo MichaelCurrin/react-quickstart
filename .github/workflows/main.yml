@@ -19,7 +19,7 @@ jobs:
       - name: Install 🔧
         run: yarn install
 
-      - name: Test ✅
+      - name: Test 🚨
         run: yarn test
 
       - name: Build 🏗️
