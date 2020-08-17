@@ -10,6 +10,7 @@
 <div align="center">
 
 [![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/react-create-app-quickstart/generate)
+
 [![View demo - React Create App Quickstart](https://img.shields.io/badge/View_demo-React%20Create%20App%20Quickstart-green?style=for-the-badge)](https://michaelcurrin.github.io/react-create-app-quickstart/)
 
 </div>
