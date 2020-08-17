@@ -1,5 +1,6 @@
 {
   "name": "react-create-app-quickstart",
+  "license": "MIT",
   "homepage": "https://michaelcurrin.github.io/react-create-app-quickstart/",
   "repository": {
     "type": "git",
