@@ -1,6 +1,10 @@
 {
   "name": "react-create-app-quickstart",
-  "private": true,
+  "homepage": "https://michaelcurrin.github.io/react-create-app-quickstart/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelcurrin/react-create-app-quickstart.git"
+  },
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -15,11 +19,6 @@
     "start": "react-scripts start",
     "test": "react-scripts test",
     "build": "react-scripts build"
-  },
-  "homepage": "https://michaelcurrin.github.io/react-create-app-quickstart/",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/michaelcurrin/react-create-app-quickstart.git"
   },
   "eslintConfig": {
     "extends": "react-app"
