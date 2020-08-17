@@ -5,9 +5,13 @@
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/react-create-app-quickstart)](https://github.com/MichaelCurrin/react-create-app-quickstart/tags/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 
-[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/react-create-app-quickstart/generate)
 
+<div align="center">
+
+[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/react-create-app-quickstart/generate)
 [![View demo - React Create App Quickstart](https://img.shields.io/badge/View_demo-React%20Create%20App%20Quickstart-green?style=for-the-badge)](https://michaelcurrin.github.io/react-create-app-quickstart/)
+
+</div>
 
 
 ## About
@@ -24,7 +28,7 @@ Follow the setup instructions using this repo a template copied to your own repo
 
 Then you can run a start command to build and run the app, then you can view the app in the browser.
 
-See [docs](/docs/README.md).
+See this project's [docs](/docs/README.md).
 
 
 ## How a React project works
