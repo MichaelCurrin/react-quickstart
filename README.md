@@ -5,6 +5,7 @@
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/react-create-app-quickstart)](https://github.com/MichaelCurrin/react-create-app-quickstart/tags/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 
+---
 
 <div align="center">
 
@@ -85,7 +86,7 @@ my-app
 
 Start the application.
 
-```
+```sh
 $ npm start
 ```
 
