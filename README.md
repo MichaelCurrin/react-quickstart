@@ -97,8 +97,8 @@ $ npm start
 Notes about this project.
 
 - It is better to set state through a method rather than by changing state directly.
-- The Foo component is based on part of this video: [Get started with React in under 10 minutes](https://youtu.be/K02AkMbV1HM)
-- This project uses 3 main dependencies, which were included with the quickstart
+- The Foo component is based on part of this video: [Get started with React in under 10 minutes](https://youtu.be/K02AkMbV1HM).
+- This project uses 3 main dependencies (they all came with the React CLI quickstart app).
     - `react` - for the core application.
     - `react-dom` - for using `ReactDom` in [App.js](/src/App.js).
     - `react-scripts` - used to setup the `script` commands in [package.json](/package.json).
