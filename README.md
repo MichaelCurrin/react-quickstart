@@ -51,7 +51,7 @@ See this project's [docs](/docs/README.md).
 
 ## Create a fresh project
 
-This project used skeleton setup generated below as a starting point.
+This project used an auto-generated outline using the Create React App flow. Follow instructions below to create your own repo like this one from scratch.
 
 Install [Node.js](https://gist.github.com/MichaelCurrin/aa1fc56419a355972b96bce23f3bccba).
 
