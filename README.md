@@ -5,8 +5,6 @@
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/react-create-app-quickstart)](https://github.com/MichaelCurrin/react-create-app-quickstart/tags/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 
----
-
 <div align="center">
 
 [![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/react-create-app-quickstart/generate)
@@ -114,3 +112,5 @@ Notes about this project.
 ## License
 
 Released under [MIT](/LICENSE).
+
+This project is based on the template from the React CLI. I have added my own docs, the deploy flow and made very minor changes to the app.
