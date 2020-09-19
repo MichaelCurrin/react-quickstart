@@ -13,12 +13,14 @@
 Either use this repo directly - or click "Use this template" at the top of the Github repo page, then use your repo's URL below instead.
 
 ```sh
-$ git clone git@github.com:MichaelCurrin/react-create-app-quickstart.git
-$ cd react-create-app-quickstart
+$ git clone git@github.com:MichaelCurrin/react-quickstart.git
+$ cd react-quickstart
 ```
 
 
 ## Install project dependencies
+
+Run one of the commands below.
 
 - Yarn
     ```sh
