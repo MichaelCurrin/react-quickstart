@@ -1,5 +1,5 @@
 # React.js Quickstart
-> Minimal React app template that uses GitHub Actions to deploy to GitHub Pages
+> Minimal React app template which uses GitHub Actions to deploy to GitHub Pages
 
 [![GH Pages Deploy](https://github.com/MichaelCurrin/react-quickstart/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/MichaelCurrin/react-quickstart/actions)
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/react-quickstart)](https://github.com/MichaelCurrin/react-quickstart/tags/)
