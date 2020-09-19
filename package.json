@@ -1,12 +1,12 @@
 {
-  "name": "react-create-app-quickstart",
+  "name": "react-quickstart",
   "description": "Minimal React app template that uses CI to deploy to Github Pages",
   "version": "1.0.0",
   "license": "MIT",
-  "homepage": "https://michaelcurrin.github.io/react-create-app-quickstart/",
+  "homepage": "https://michaelcurrin.github.io/react-quickstart/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelcurrin/react-create-app-quickstart.git"
+    "url": "git+https://github.com/michaelcurrin/react-quickstart.git"
   },
   "dependencies": {
     "react": "^16.13.1",
