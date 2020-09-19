@@ -19,7 +19,7 @@ Open in browser:
 
 If you make changes in the app, the browser will update to show the latest page.
 
-See more commands covered in the [Bootstrapped Readme](bootstrapped_readme.md).
+See more commands covered in the CLI-generated [Bootstrapped Readme](bootstrapped-readme.md).
 
 
 ## Run tests
