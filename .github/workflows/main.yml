@@ -1,13 +1,11 @@
 name: GH Pages Deploy
 
 on:
-  push:
-    branches: [master]
-  pull_request:
-    branches: [master]
-
+  - push
+  - pull_request
+    
 jobs:
-  build-and-deploy:
+  build-and-test:
     runs-on: ubuntu-latest
 
     steps:
@@ -24,8 +22,13 @@ jobs:
 
       - name: Build 🏗️
         run: yarn build
-
+  
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
       - name: Deploy to GH Pages 🚀
+        if: ${{ github.event_name != 'pull_request' }}
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
