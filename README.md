@@ -2,14 +2,14 @@
 > Minimal React app template that uses GitHub Actions to deploy to GitHub Pages
 
 [![GH Pages Deploy](https://github.com/MichaelCurrin/react-quickstart/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/MichaelCurrin/react-quickstart/actions)
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/react-quickstart)](https://github.com/MichaelCurrin/react-app-quickstart/tags/)
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/react-quickstart)](https://github.com/MichaelCurrin/react-quickstart/tags/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 
 Made with: React, Yarn, GH Actions, GH Actions
 
 <div align="center">
 
-[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/react-app-quickstart/generate)
+[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/react-quickstart/generate)
 [![View demo - React Quickstart](https://img.shields.io/badge/View_demo-React%20Create%20App%20Quickstart-green?style=for-the-badge)](https://michaelcurrin.github.io/react-quickstart/)
 
 </div>
@@ -103,10 +103,10 @@ Notes about this project.
 - There are 3 testing libraries - these were moved to dev dependencies.
 - When running the `build` command, the `NODE_ENV` value will be set to `production` by React - see [React docs - Adding custom env variables](https://create-react-app.dev/docs/adding-custom-environment-variables/).
 - Homepage
-    - The `homepage` value is set [package.json](/package.json) and used on the build - see `index.html` in the output includes `src="/react-create-app-quickstart/static/js/..."` for example.
+    - The `homepage` value is set in [package.json](/package.json) and is used on the build. The `index.html` in the output includes `src="/react-quickstart/static/js/..."` for example.
     - This is necessary for GH Pages build to work correctly on a subpath.
-    - It doesn't seem to matter whether the value is just `/react-create-app-quickstart/` or the full `https://michaelcurrin.github.io/react-create-app-quickstart/`.
-    - Customize this value for other repos.
+    - It doesn't seem to matter whether the value is just a path (`/react-quickstart/`) or the full URL (`https://michaelcurrin.github.io/react-quickstart/`).
+    - Customize this value for your repo.
 
 
 ## License
