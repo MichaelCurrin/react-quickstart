@@ -6,7 +6,7 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 
 [![Made with Node](https://img.shields.io/badge/Node.js->=10.X-blue?logo=node.js&logoColor=white)](https://nodejs.org)
-[![Made with Yarn](https://img.shields.io/badge/Yarn->=v1-blue?logo=yarn&logoColor=white)](https://classic.yarnpkg.com)
+[![Made with Yarn](https://img.shields.io/badge/Yarn->=1.X-blue?logo=yarn&logoColor=white)](https://classic.yarnpkg.com)
 [![Made with React](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/react-quickstart/react?logo=react)](https://www.npmjs.com/package/react)
 
 
