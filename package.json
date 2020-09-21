@@ -22,7 +22,9 @@
   "scripts": {
     "start": "react-scripts start",
     "test": "react-scripts test",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "version": "yarn build",
+    "postversion": "git push --follow-tags"
   },
   "eslintConfig": {
     "extends": "react-app"
