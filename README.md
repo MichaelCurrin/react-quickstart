@@ -12,8 +12,8 @@
 
 <div align="center">
 
+[![View demo - React Quickstart](https://img.shields.io/badge/View_demo-React_App_Quickstart-green?style=for-the-badge)](https://michaelcurrin.github.io/react-quickstart/)
 [![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/react-quickstart/generate)
-[![View demo - React Quickstart](https://img.shields.io/badge/View_demo-React%20Create%20App%20Quickstart-green?style=for-the-badge)](https://michaelcurrin.github.io/react-quickstart/)
 
 </div>
 
