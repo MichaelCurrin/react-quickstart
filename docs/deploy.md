@@ -3,7 +3,7 @@
 
 ## Build
 
-Do a production build of the the React app, either locally or as part of a CI-CI flow as below.
+Do a production build of the the React app, either locally or as part of a CI/CI flow as below.
 
 - Yarn
     ```sh
