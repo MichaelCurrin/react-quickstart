@@ -10,9 +10,13 @@
 
 ## How to use this project
 
-Create a new repo from the _Use this template_ button on the [README.md](/README.md). That will fork it to your own repos.
+Click the button below. That will fork it to your own repos.
 
-Follow the instructions in the docs linked below to install and run the app, so you can view it locally in your browser.
+[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/react-quickstart/generate)
+
+Then follow the [Installation](/docs/installation.md) and [Usage](/docs/usage.md) docs to install and run the app so you can view it locally in your browser.
+
+Follow the [Deploy](/docs/deploy.md) doc to deploy to GitHub Pages.
 
 
 ## Origin
