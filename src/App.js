@@ -1,15 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
+
 import './App.css';
+import logo from './logo.svg';
 import Foo from './components/Foo';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={ logo } className="App-logo" alt="logo" />
         <h1>Hello, world!</h1>
-        <p>Welcome to React Create App Quickstart</p>
+        <p>Welcome to React Quickstart</p>
       </header>
 
       <div>
@@ -23,11 +24,11 @@ function App() {
         <p>
           GitHub repo:{' '}
           <a
-            href="https://github.com/MichaelCurrin/react-create-app-quickstart"
+            href="https://github.com/MichaelCurrin/react-quickstart"
             target="_blank"
             rel="noopener noreferrer"
           >
-            MichaelCurrin/react-create-app-quickstart
+            MichaelCurrin/react-quickstart
           </a>
         </p>
       </div>
