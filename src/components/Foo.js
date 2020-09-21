@@ -10,8 +10,8 @@ export default class Foo extends React.Component {
   }
 
   showHide() {
-    this.setState(currenState => ({
-      isHidden: !currenState.isHidden
+    this.setState(currentState => ({
+      isHidden: !currentState.isHidden
     }));
   }
 
