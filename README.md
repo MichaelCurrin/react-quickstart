@@ -21,20 +21,16 @@
 ## Preview
 
 <div align="center">
-
-![Sample screenshot](/sample.png "Sample screenshot")
-
+    <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="600" />
 </div>
 
-
-## About
-
-To learn how to use this project and see how a React project works - see [About](/docs/template-notes/about.md) in this project's doc.
 
 
 ## Documentation
 
-To setup and run this project and deploy it, see [docs](/docs/README.md).
+To learn how to use this project and see how a React project works - see [About](/docs/template-notes/about.md) in this project's doc.
+
+To install, run and deploy this project, see [docs](/docs/README.md).
 
 
 ## License
