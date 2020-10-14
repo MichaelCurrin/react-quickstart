@@ -10,6 +10,8 @@
 [![Made with React](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/react-quickstart/react?logo=react)](https://www.npmjs.com/package/react)
 
 
+## Use this project
+
 <div align="center">
 
 [![View demo - React Quickstart](https://img.shields.io/badge/View_demo-React_App_Quickstart-green?style=for-the-badge)](https://michaelcurrin.github.io/react-quickstart/)
