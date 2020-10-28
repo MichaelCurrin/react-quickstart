@@ -21,9 +21,9 @@ Note that the `homepage` value is read from [package.json](/package.json) and Re
 
 This project is setup to automatically build and deploy to the `gh-pages` branch on Github. That branch is used to run the GitHub Pages site, managed in repo settings.
 
-Do **push** to `master` or merge a **Pull Request** against `master` to trigger the CI/CD build.
+Do a **push** to `master` or merge a **Pull Request** against `master` to trigger the CI/CD build.
 
-The build will always happen but the app will only deploy on a push to master, ignoring a Pull Request.
+A build will always happen, but the app will only deploy on a push to `master`, ignoring a Pull Request.
 
 See the [workflow](/.github/workflows/main.yml) file to manage this.
 
