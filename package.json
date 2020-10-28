@@ -23,7 +23,8 @@
     "start": "react-scripts start",
     "test": "react-scripts test",
     "build": "react-scripts build",
-    "version": "yarn build",
+    "preversion": "git fetch --tags",
+    "version": "yarn build && yarn test",
     "postversion": "git push --follow-tags"
   },
   "eslintConfig": {
