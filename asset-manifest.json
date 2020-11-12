@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-quickstart/static/css/main.13ad298f.chunk.css",
+    "main.css": "/react-quickstart/static/css/main.d3f99297.chunk.css",
     "main.js": "/react-quickstart/static/js/main.1d0926cd.chunk.js",
     "main.js.map": "/react-quickstart/static/js/main.1d0926cd.chunk.js.map",
     "runtime-main.js": "/react-quickstart/static/js/runtime-main.712406c6.js",
@@ -8,16 +8,16 @@
     "static/js/2.393e8722.chunk.js": "/react-quickstart/static/js/2.393e8722.chunk.js",
     "static/js/2.393e8722.chunk.js.map": "/react-quickstart/static/js/2.393e8722.chunk.js.map",
     "index.html": "/react-quickstart/index.html",
-    "precache-manifest.ea5c24503e7acbfe8a9ba7e27be59be5.js": "/react-quickstart/precache-manifest.ea5c24503e7acbfe8a9ba7e27be59be5.js",
+    "precache-manifest.b328ae845a24428f9a40a5b3e89605a4.js": "/react-quickstart/precache-manifest.b328ae845a24428f9a40a5b3e89605a4.js",
     "service-worker.js": "/react-quickstart/service-worker.js",
-    "static/css/main.13ad298f.chunk.css.map": "/react-quickstart/static/css/main.13ad298f.chunk.css.map",
+    "static/css/main.d3f99297.chunk.css.map": "/react-quickstart/static/css/main.d3f99297.chunk.css.map",
     "static/js/2.393e8722.chunk.js.LICENSE.txt": "/react-quickstart/static/js/2.393e8722.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/react-quickstart/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.712406c6.js",
     "static/js/2.393e8722.chunk.js",
-    "static/css/main.13ad298f.chunk.css",
+    "static/css/main.d3f99297.chunk.css",
     "static/js/main.1d0926cd.chunk.js"
   ]
 }
