@@ -31,7 +31,7 @@
 
 ## Documentation
 
-<!-- On your copy of this template project, you can delete the next line, but docs linked after that are still reusable and worth keeping. -->
+<!-- TODO On your copy of this template project, you can delete the next line, but docs linked after that are still reusable and worth keeping. -->
 
 To learn how to use this project and see how a React project works - see the [About](/docs/template-notes/about.md) page of the template's notes.
 
@@ -43,5 +43,7 @@ To install, run and deploy this project, see the docs.
 ## License
 
 Released under [MIT](/LICENSE).
+
+<!-- TODO remove this line when creating a project from this template -->
 
 This project is based on the template from the React CLI. I have added my own docs, the deploy flow and made very minor changes to the app.
