@@ -35,9 +35,13 @@
 
 To learn how to use this project and see how a React project works - see the [About](/docs/template-notes/about.md) page of the template's notes.
 
-To install, run and deploy this project, see the docs.
+To install, run and deploy the app, see this project's docs:
+
+<div align="center">
 
 [![Docs](https://img.shields.io/badge/View_docs-blue?style=for-the-badge)](/docs/README.md)
+
+</div>
 
 
 ## License
