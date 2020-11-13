@@ -29,12 +29,15 @@
 </div>
 
 
-
 ## Documentation
 
-To learn how to use this project and see how a React project works - see [About](/docs/template-notes/about.md) in this project's doc.
+<!-- On your copy of this template project, you can delete the next line, but docs linked after that are still reusable and worth keeping. -->
 
-To install, run and deploy this project, see [docs](/docs/README.md).
+To learn how to use this project and see how a React project works - see the [About](/docs/template-notes/about.md) page of the template's notes.
+
+To install, run and deploy this project, see the docs.
+
+[![Docs](https://img.shields.io/badge/View_docs-blue?style=for-the-badge)](/docs/README.md)
 
 
 ## License
