@@ -15,7 +15,7 @@ function App() {
       <div>
         <p>
           Using the <code>Foo</code> component:
-				</p>
+        </p>
         <Foo text="Dynamic text" />
         <br />
 
@@ -23,7 +23,7 @@ function App() {
           GitHub repo:{' '}
           <a href="https://github.com/MichaelCurrin/react-quickstart" target="_blank" rel="noopener noreferrer">
             MichaelCurrin/react-quickstart
-					</a>
+          </a>
         </p>
       </div>
     </div>
