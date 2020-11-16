@@ -24,6 +24,8 @@ See more commands covered in the CLI-generated [Bootstrapped Readme](bootstrappe
 
 ## Run tests
 
+Run tests in watch mode - only files that are changed are tested and the command stays running ready to rerun tests.
+
 - Yarn
     ```sh
     $ yarn test
