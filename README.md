@@ -31,9 +31,11 @@
 
 ## Documentation
 
-<!-- TODO On your copy of this template project, you can delete the next line, but docs linked after that are still reusable and worth keeping. -->
-
 To learn how to use this project and see how a React project works - see the [About](/docs/template-notes/about.md) page of the template's notes.
+
+See also my [React Router Quickstart](https://github.com/MichaelCurrin/react-router-quickstart) project.
+
+<!-- TODO On your copy of this template project, you can delete the lines above, but docs linked after that are still reusable and worth keeping. -->
 
 To install, run and deploy the app, see this project's docs:
 
