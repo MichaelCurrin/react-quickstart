@@ -1,7 +1,7 @@
 {
   "name": "react-quickstart",
   "description": "Minimal React app template which uses CI to deploy to GitHub Pages",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "MichaelCurrin",
   "license": "MIT",
   "scripts": {
