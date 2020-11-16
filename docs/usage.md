@@ -13,9 +13,11 @@
     $ npm start
     ```
 
-Open in browser:
+Open in the browser:
 
-- [localhost:3000](http://localhost:3000/)
+- [localhost:3000/react-quickstart](http://localhost:3000/react-quickstart)
+
+The subpath is derived from a value in [package.json](/package.json) and allows the site to work properly on a subpath on GitHub Pages.
 
 If you make changes in the app, the browser will update to show the latest page.
 
