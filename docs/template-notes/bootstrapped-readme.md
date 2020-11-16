@@ -1,6 +1,6 @@
 # Bootstrapped Readme
 
-_This is an auto-generated file. You can delete this if you want and use the other docs in this directory instead._
+_This is an auto-generated file._
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
