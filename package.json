@@ -4,28 +4,29 @@
   "version": "1.1.0",
   "author": "MichaelCurrin",
   "license": "MIT",
-  "homepage": "https://michaelcurrin.github.io/react-quickstart/",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/michaelcurrin/react-quickstart.git"
-  },
   "scripts": {
     "start": "react-scripts start",
     "test": "react-scripts test",
+    "test-all": "react-scripts test --watchAll=false",
     "build": "react-scripts build",
-    "preversion": "git fetch --tags && yarn test",
+    "preversion": "git fetch --tags && yarn test-all",
     "version": "yarn build",
     "postversion": "git push --follow-tags"
   },
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.4"
+    "react-scripts": "^3.4.4"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2"
+  },
+  "homepage": "https://michaelcurrin.github.io/react-quickstart/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelcurrin/react-quickstart.git"
   },
   "eslintConfig": {
     "extends": "react-app"
