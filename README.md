@@ -1,4 +1,4 @@
-# React.js Quickstart
+# React Quickstart
 > Minimal React app template which uses GitHub Actions to deploy to GitHub Pages
 
 [![GH Pages Deploy](https://github.com/MichaelCurrin/react-quickstart/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/MichaelCurrin/react-quickstart/actions)
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![View demo - React Quickstart](https://img.shields.io/badge/View_demo-React_App_Quickstart-green?style=for-the-badge)](https://michaelcurrin.github.io/react-quickstart/)
+[![View demo - React Quickstart](https://img.shields.io/badge/View_demo-React_App_Quickstart-blue?style=for-the-badge)](https://michaelcurrin.github.io/react-quickstart/)
 [![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/react-quickstart/generate)
 
 </div>
@@ -48,7 +48,7 @@ To install, run and deploy the app, see this project's docs:
 
 ## License
 
-Released under [MIT](/LICENSE).
+Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
 
 <!-- TODO remove this line when creating a project from this template -->
 
