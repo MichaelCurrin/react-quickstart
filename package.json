@@ -1,9 +1,7 @@
 {
   "name": "react-quickstart",
-  "description": "Minimal React app template which uses CI to deploy to GitHub Pages",
+  "description": "Minimal React app template which uses GitHub Actions to deploy to GitHub Pages",
   "version": "1.2.0",
-  "author": "MichaelCurrin",
-  "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
     "test": "react-scripts test",
@@ -24,11 +22,6 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10"
   },
-  "homepage": "https://michaelcurrin.github.io/react-quickstart/",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/michaelcurrin/react-quickstart.git"
-  },
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -46,5 +39,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "author": "MichaelCurrin",
+  "license": "MIT",
+  "homepage": "https://michaelcurrin.github.io/react-quickstart/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelcurrin/react-quickstart.git"
   }
 }
