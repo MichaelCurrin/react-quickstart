@@ -10,6 +10,15 @@
 [![Made with React](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/react-quickstart/react?logo=react)](https://www.npmjs.com/package/react)
 
 
+## Preview
+
+<div align="center">
+    <a href="https://michaelcurrin.github.io/react-quickstart/">
+        <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="600" />
+    </a>
+</div>
+
+
 ## Create a new React project
 
 ### Use create-react-app
@@ -33,15 +42,6 @@ Then add the docs and CI setup based on this React Quickstart template repo.
 [![View demo - React Quickstart](https://img.shields.io/badge/View_demo-React_App_Quickstart-blue?style=for-the-badge)](https://michaelcurrin.github.io/react-quickstart/)
 [![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/react-quickstart/generate)
 
-</div>
-
-
-## Preview
-
-<div align="center">
-    <a href="https://michaelcurrin.github.io/react-quickstart/">
-        <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="600" />
-    </a>
 </div>
 
 
