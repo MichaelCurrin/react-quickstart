@@ -8,6 +8,15 @@
     - `react-dom` - for using `ReactDom` in [App.js](/src/App.js).
     - `react-scripts` - used to setup the `script` commands in [package.json](/package.json).
 - There are 3 testing libraries - these were moved to dev dependencies.
+- The dependency versions are based on the create-react-app ones. Despite this, there still many errors and warnings, which I will not bother to resolve because the app works fine without fixing these and the package versions are determined externally.
+	```sh
+	$ yarn check
+	```
+	```
+	...
+	info Found 46 warnings.
+	error Found 12 errors.
+	```
 - When running the `build` command, the `NODE_ENV` value will be set to `production` by React - see [React docs - Adding custom env variables](https://create-react-app.dev/docs/adding-custom-environment-variables/).
 - Homepage
     - The `homepage` value is set in [package.json](/package.json) and is used on the build. The `index.html` in the output includes `src="/react-quickstart/static/js/..."` for example.
