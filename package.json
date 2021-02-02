@@ -1,8 +1,6 @@
 {
   "name": "react-quickstart",
   "version": "1.4.0",
-  "author": "MichaelCurrin",
-  "license": "MIT",
   "scripts": {
     "start": "react-scripts start",
     "test": "react-scripts test",
@@ -40,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "author": "MichaelCurrin",
+  "license": "MIT",
+  "homepage": "https://michaelcurrin.github.io/react-quickstart/"
 }
