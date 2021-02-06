@@ -58,7 +58,7 @@ To install, run and deploy the app, see this project's docs:
 
 <div align="center">
 
-[![Docs](https://img.shields.io/badge/View_docs-blue?style=for-the-badge)](/docs/README.md)
+[![Docs](https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge)](/docs/README.md)
 
 </div>
 
