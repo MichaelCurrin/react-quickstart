@@ -1,9 +1,9 @@
 # React Quickstart
-> Minimal React app template which uses GitHub Actions to deploy to GitHub Pages
+> Starter template for a React app, including docs and CI to build a GH Pages site
 
-[![GH Pages Deploy](https://github.com/MichaelCurrin/react-quickstart/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/MichaelCurrin/react-quickstart/actions)
+[![GH Pages Deploy](https://github.com/MichaelCurrin/react-quickstart/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/MichaelCurrin/react-quickstart/actions?query=workflow:"GH+Pages+Deploy")
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/react-quickstart)](https://github.com/MichaelCurrin/react-quickstart/tags/)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 [![Made with Node](https://img.shields.io/badge/Node.js->=10-blue?logo=node.js&logoColor=white)](https://nodejs.org)
 [![Made with Yarn](https://img.shields.io/badge/Yarn->=1-blue?logo=yarn&logoColor=white)](https://classic.yarnpkg.com)
@@ -19,9 +19,19 @@
 </div>
 
 
-## Create a new React project
+## How to make new React app
 
-### Use create-react-app
+### Use this project as a template
+
+<div align="center">
+
+[![View demo - React Quickstart](https://img.shields.io/badge/View_demo-React_App_Quickstart-blue?style=for-the-badge)](https://michaelcurrin.github.io/react-quickstart/)
+
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/react-quickstart/generate)
+
+</div>
+
+### Create a fresh project
 
 Note that this project will not be up to date in terms of structure as dependencies, in comparison to the original Create React App repo was is used to generate the code for this repo.
 
@@ -34,15 +44,6 @@ $ yarn start
 ```
 
 Then add the docs and CI setup based on this React Quickstart template repo.
-
-### Create project from React Quickstart template
-
-<div align="center">
-
-[![View demo - React Quickstart](https://img.shields.io/badge/View_demo-React_App_Quickstart-blue?style=for-the-badge)](https://michaelcurrin.github.io/react-quickstart/)
-[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/react-quickstart/generate)
-
-</div>
 
 
 ## Documentation
