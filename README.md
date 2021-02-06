@@ -48,12 +48,6 @@ Then add the docs and CI setup based on this React Quickstart template repo.
 
 ## Documentation
 
-To learn how to use this project and see how a React project works - see the [About](/docs/template-notes/about.md) page of the template's notes.
-
-See also my [React Router Quickstart](https://github.com/MichaelCurrin/react-router-quickstart) project.
-
-<!-- TODO On your copy of this template project, you can delete the lines above, but docs linked after that are still reusable and worth keeping. -->
-
 To install, run and deploy the app, see this project's docs:
 
 <div align="center">
@@ -61,6 +55,14 @@ To install, run and deploy the app, see this project's docs:
 [![Docs](https://img.shields.io/badge/View-Documentation-blue?style=for-the-badge)](/docs/README.md)
 
 </div>
+
+### Template notes
+
+To learn how to use this project and see how a React project works - see the [About](/docs/template-notes/about.md) page of the template's notes.
+
+See also my React template project which uses React Router to support a multi-page site.
+
+[![MichaelCurrin - react-router-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=react-router-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/react-router-quickstart)
 
 
 ## License
