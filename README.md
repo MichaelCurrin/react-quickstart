@@ -1,4 +1,4 @@
-# React Quickstart
+# React Quickstart ⚛️ 📦
 > Starter template for a React app, including docs and CI to build a GH Pages site
 
 [![GH Pages Deploy](https://github.com/MichaelCurrin/react-quickstart/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/MichaelCurrin/react-quickstart/actions?query=workflow:"GH+Pages+Deploy")
