@@ -60,9 +60,9 @@ To install, run and deploy the app, see this project's docs:
 
 To learn how to use this project and see how a React project works - see the [About](/docs/template-notes/about.md) page of the template's notes.
 
-See also my React template project which uses React Router to support a multi-page site.
+See a similar template which uses the same basic React app and adds React Router to it, to support a multi-page site.
 
-[![MichaelCurrin - react-router-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=react-router-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/react-router-quickstart)
+- [![MichaelCurrin - react-router-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=react-router-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/react-router-quickstart)
 
 
 ## License
