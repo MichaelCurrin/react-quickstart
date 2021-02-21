@@ -14,6 +14,8 @@ on:
 
 jobs:
   build-deploy:
+    name: Build and deploy app
+
     runs-on: ubuntu-latest
 
     steps:
