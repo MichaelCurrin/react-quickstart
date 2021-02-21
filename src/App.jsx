@@ -14,13 +14,13 @@ function App() {
       </header>
 
       <div>
+        <GHBadge username="MichaelCurrin" repoName="react-quickstart" />
+
         <p>
           Using the <code>Foo</code> component:
         </p>
         <Foo text="Dynamic text" />
         <br />
-
-        <GHBadge />
       </div>
     </div>
   );
