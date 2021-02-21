@@ -1,5 +1,6 @@
 import './App.css';
 import Foo from './components/Foo';
+import GHBadge from './components/GHBadge';
 import logo from './logo.svg';
 
 function App() {
@@ -19,12 +20,7 @@ function App() {
         <Foo text="Dynamic text" />
         <br />
 
-        <p>
-          GitHub repo:{' '}
-          <a href="https://github.com/MichaelCurrin/react-quickstart" target="_blank" rel="noopener noreferrer">
-            MichaelCurrin/react-quickstart
-          </a>
-        </p>
+        <GHBadge />
       </div>
     </div>
   );
