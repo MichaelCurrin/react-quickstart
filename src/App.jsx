@@ -18,7 +18,12 @@ export default function App() {
 
       <div>
         <p>
-          Using the <code>Counter</code> functional component to increment a numeric counter, based on <a href="https://reactjs.org/docs/hooks-state.html">Using the State Hook</a> tutorial:
+          Using the <code>Counter</code> functional component to increment a
+          numeric counter, based on{" "}
+          <a href="https://reactjs.org/docs/hooks-state.html">
+            Using the State Hook
+          </a>{" "}
+          tutorial:
         </p>
         <Counter />
       </div>
