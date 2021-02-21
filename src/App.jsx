@@ -1,7 +1,7 @@
-import './App.css';
-import Foo from './components/Foo';
-import GHBadge from './components/GHBadge';
-import logo from './logo.svg';
+import "./App.css";
+import Foo from "./components/Foo";
+import GHBadge from "./components/GHBadge";
+import logo from "./logo.svg";
 
 function App() {
   return (
