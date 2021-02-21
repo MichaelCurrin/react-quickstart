@@ -25,6 +25,7 @@ export default function App() {
           </a>{" "}
           tutorial:
         </p>
+
         <Counter />
       </div>
 
@@ -32,6 +33,7 @@ export default function App() {
         <p>
           Using the <code>Foo</code> class component to show and hide text:
         </p>
+
         <Foo text="Dynamic text" />
         <br />
         <br />
