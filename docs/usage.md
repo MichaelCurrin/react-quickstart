@@ -49,3 +49,12 @@ Snapshots:   0 total
 Time:        4.116s
 Ran all test suites related to changed files.
 ```
+
+
+## Formatting
+
+Prettier is not included as a direct dependency of this project, but you can apply Prettier formatting by running this. This works without Prettier installed anywhere yet.
+
+```sh
+$ npx prettier -w src
+```
