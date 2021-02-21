@@ -11,11 +11,11 @@ function App() {
 
         <h1>React Quickstart</h1>
         <p>A template project hosted hosted on GH Pages</p>
+
+        <GHBadge username="MichaelCurrin" repoName="react-quickstart" />
       </header>
 
       <div>
-        <GHBadge username="MichaelCurrin" repoName="react-quickstart" />
-
         <p>
           Using the <code>Foo</code> component:
         </p>
