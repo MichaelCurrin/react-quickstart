@@ -60,9 +60,13 @@ To install, run and deploy the app, see this project's docs:
 
 To learn how to use this project and see how a React project works - see the [About](/docs/template-notes/about.md) page of the template's notes.
 
-See a similar template which uses the same basic React app and adds React Router to it, to support a multi-page site.
+See a similar template which uses the same basic React app and adds **React Router** to it, to support a multi-page site.
 
 - [![MichaelCurrin - react-router-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=react-router-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/react-router-quickstart)
+
+Interested in **Deno**? See my version of this React template rebuilt to work with Deno:
+
+- [![MichaelCurrin - react-deno-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=react-deno-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/react-deno-quickstart)
 
 
 ## License
