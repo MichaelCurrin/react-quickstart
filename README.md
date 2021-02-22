@@ -10,6 +10,18 @@
 [![Made with React](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/react-quickstart/react?logo=react)](https://www.npmjs.com/package/react)
 
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"
+         alt="node icon"
+         title="Node.js"
+         width="150" height="150" />
+    <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"
+         alt="node icon"
+         title="Node.js"
+        width="150" height="150" />
+</div>
+
+
 ## Preview
 
 <div align="center">
