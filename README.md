@@ -19,7 +19,7 @@
 </div>
 
 
-## How to make new React app
+## How to create a new React app
 
 ### Use this project as a template
 
