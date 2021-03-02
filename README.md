@@ -14,11 +14,11 @@
         <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"
              alt="node icon"
              title="Node.js"
-             width="150" height="150" />
+             width="80" height="80" />
         <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"
              alt="node icon"
              title="Node.js"
-             width="150" height="150" />
+             width="80" height="80" />
     </a>
 </div>
 
