@@ -74,4 +74,4 @@ Oops! Something went wrong! :(
 
 ESLint has been configured, but if you try to use it, you get warnings about packages which are missing. The idea is not to diverge from the original `create-react-app` packages, so this template does not add extra parts for linting.
 
-Hopefully you can still get the linting you need from the `react-script` commands.
+Hopefully you can still get the linting you need from the `react-scripts` commands.
