@@ -53,8 +53,25 @@ Ran all test suites related to changed files.
 
 ## Formatting
 
-Prettier is not included as a direct dependency of this project, but you can apply Prettier formatting by running this. This works without Prettier installed anywhere yet.
+Prettier is not included as a direct dependency of this project, but you can apply Prettier formatting by running this. This works without Prettier installed anywhere yet. Note a major difference is that Prettier prefers double quotes, while the original `create-react-app` uses single quotes.
 
 ```sh
 $ npx prettier -w src
 ```
+
+
+## Linting
+
+This app does **not** supporting running ESLint alone.
+
+```sh
+$ npx eslint .
+```
+```
+Oops! Something went wrong! :(
+...
+```
+
+ESLint has been configured, but if you try to use it, you get warnings about packages which are missing. The idea is not to diverge from the original `create-react-app` packages, so this template does not add extra parts for linting.
+
+Hopefully you can still get the linting you need from the `react-script` commands.
