@@ -2,9 +2,10 @@
   "name": "react-quickstart",
   "version": "1.4.0",
   "scripts": {
-    "start": "react-scripts start",
+    "fmt": "npx prettier src",
     "test": "react-scripts test",
     "test-all": "react-scripts test --watchAll=false",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "preversion": "git fetch --tags && yarn test-all",
     "version": "yarn build",
