@@ -1,5 +1,5 @@
 # React Quickstart ⚛️ 📦
-> Starter template for a React app, including docs and CI to build a GH Pages site
+> Starter template for a React app - including docs and deploys to GitHub Pages
 
 [![GH Pages Deploy](https://github.com/MichaelCurrin/react-quickstart/workflows/GH%20Pages%20Deploy/badge.svg)](https://github.com/MichaelCurrin/react-quickstart/actions?query=workflow:"GH+Pages+Deploy")
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/react-quickstart)](https://github.com/MichaelCurrin/react-quickstart/tags/)
@@ -10,7 +10,7 @@
 [![Made with React](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/react-quickstart/react?logo=react)](https://www.npmjs.com/package/react)
 
 <div align="center">
-    <a href="https://michaelcurrin.github.io/react-quickstart/">  
+    <a href="https://michaelcurrin.github.io/react-quickstart/">
         <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"
              alt="node icon"
              title="Node.js"
