@@ -18,7 +18,12 @@ export default class Foo extends React.Component {
   render() {
     return (
       <div>
+        <h2>Toggle component</h2>
+
+        <p>A simple class component.</p>
+
         <button onClick={() => this.showHide()}>Toggle</button>
+
         <p>{!this.state.isHidden && this.props.text}</p>
       </div>
     );

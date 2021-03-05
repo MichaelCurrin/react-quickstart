@@ -17,22 +17,7 @@ export default function App() {
       </header>
 
       <div>
-        <p>
-          Using the <code>Counter</code> functional component to increment a
-          numeric counter, based on{" "}
-          <a href="https://reactjs.org/docs/hooks-state.html">
-            Using the State Hook
-          </a>{" "}
-          tutorial:
-        </p>
-
         <Counter />
-      </div>
-
-      <div>
-        <p>
-          Using the <code>Foo</code> class component to show and hide text:
-        </p>
 
         <Foo text="Dynamic text" />
         <br />
