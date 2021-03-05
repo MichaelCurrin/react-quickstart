@@ -11,7 +11,7 @@ export default function App() {
         <img src={logo} className="App-logo" alt="logo" />
 
         <h1>React Quickstart</h1>
-        <p>A template project hosted hosted on GH Pages</p>
+        <p>A template project deployed to GitHub Pages</p>
 
         <GHBadge username="MichaelCurrin" repoName="react-quickstart" />
       </header>
