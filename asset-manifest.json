@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-quickstart/static/css/main.bb072aef.chunk.css",
+    "main.css": "/react-quickstart/static/css/main.8d35ebb0.chunk.css",
     "main.js": "/react-quickstart/static/js/main.2186f773.chunk.js",
     "main.js.map": "/react-quickstart/static/js/main.2186f773.chunk.js.map",
     "runtime-main.js": "/react-quickstart/static/js/runtime-main.c3823e24.js",
@@ -10,14 +10,14 @@
     "static/js/3.5f347bd5.chunk.js": "/react-quickstart/static/js/3.5f347bd5.chunk.js",
     "static/js/3.5f347bd5.chunk.js.map": "/react-quickstart/static/js/3.5f347bd5.chunk.js.map",
     "index.html": "/react-quickstart/index.html",
-    "static/css/main.bb072aef.chunk.css.map": "/react-quickstart/static/css/main.bb072aef.chunk.css.map",
+    "static/css/main.8d35ebb0.chunk.css.map": "/react-quickstart/static/css/main.8d35ebb0.chunk.css.map",
     "static/js/2.755cee9d.chunk.js.LICENSE.txt": "/react-quickstart/static/js/2.755cee9d.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/react-quickstart/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c3823e24.js",
     "static/js/2.755cee9d.chunk.js",
-    "static/css/main.bb072aef.chunk.css",
+    "static/css/main.8d35ebb0.chunk.css",
     "static/js/main.2186f773.chunk.js"
   ]
 }
