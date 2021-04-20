@@ -28,7 +28,9 @@ $ npx create-react-app my-app
 $ cd my-app
 ```
 
-The app is mostly unchanged but I've added detailed docs and a GH Actions deploy flow to get the site hosted on GH Pages.
+Tip - you can add TS support by adding `--template typescript`.
+
+The app in this project is mostly unchanged. I've added detailed docs and a GH Actions deploy flow to get the site hosted on GH Pages.
 
 
 ## How a React project works
