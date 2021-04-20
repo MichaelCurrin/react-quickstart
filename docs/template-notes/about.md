@@ -30,7 +30,7 @@ $ cd my-app
 
 Tip - you can add TS support by adding `--template typescript`.
 
-The app in this project is mostly unchanged. I've added detailed docs and a GH Actions deploy flow to get the site hosted on GH Pages.
+The original app in this project is mostly unchanged. I've added components to demonstrate how they are used. I've added detailed docs and a GH Actions deploy flow to get the site hosted on GH Pages.
 
 
 ## How a React project works
