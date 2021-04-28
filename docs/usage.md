@@ -53,12 +53,13 @@ Ran all test suites related to changed files.
 
 ## Formatting
 
-Prettier is not included as a direct dependency of this project, but you can apply Prettier formatting by running this. This works without Prettier installed anywhere yet. Note a major difference is that Prettier by default prefers double quotes, while the original `create-react-app` uses single quotes.
+Prettier is not included as a direct dependency of this project, but you can apply Prettier formatting by running this. This works without Prettier installed anywhere yet.
 
 ```sh
 $ yarn fmt
 ```
 
+Single quotes are configured, to keep inline with the original `create-react-app`.
 
 ## Linting
 
