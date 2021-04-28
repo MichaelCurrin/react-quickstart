@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState } from 'react';
 
 export default function Counter() {
   const [count, setCount] = useState(0);
@@ -10,10 +10,10 @@ export default function Counter() {
       <p>A simple functional component.</p>
 
       <p>
-        We increment a numeric counter, based on{" "}
+        We increment a numeric counter, based on{' '}
         <a href="https://reactjs.org/docs/hooks-state.html">
           Using the State Hook
-        </a>{" "}
+        </a>{' '}
         tutorial.
       </p>
 
