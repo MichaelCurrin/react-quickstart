@@ -13,9 +13,9 @@ export default function Counter() {
         We increment a numeric counter, based on{" "}
         <a href="https://reactjs.org/docs/hooks-state.html">
           Using the State Hook
-          </a>{" "}
-          tutorial.
-        </p>
+        </a>{" "}
+        tutorial.
+      </p>
 
       <p>You clicked {count} times</p>
 

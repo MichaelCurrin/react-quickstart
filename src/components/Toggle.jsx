@@ -17,5 +17,5 @@ export default function Toggle(props) {
 
       <p>{!isHidden && props.text}</p>
     </div>
-  )
+  );
 }
