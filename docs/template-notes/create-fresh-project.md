@@ -2,9 +2,9 @@
 
 Using React CLI.
 
-Note that this project will not be up to date in terms of structure as dependencies, in comparison to the original Create React App repo was is used to generate the code for this repo.
+Note that this project will not be up to date in terms of structure or dependencies. While the original Create React App repo was used to create this repo and that will be will updated regularly hopefully.
 
-So you may prefer to generate a fresh app using the command below from the [Getting Started](https://create-react-app.dev/docs/getting-started/) guide.
+If you want to generate a fresh app using the latest template availabe, run the command below. This is based on React's [Getting Started](https://create-react-app.dev/docs/getting-started/) guide.
 
 ```sh
 $ npx create-react-app my-app
@@ -12,4 +12,4 @@ $ cd my-app
 $ yarn start
 ```
 
-Then add the docs and CI setup based on this React Quickstart template repo.
+Then, if you want, add the docs and CI setup from this template project to your new repo.
