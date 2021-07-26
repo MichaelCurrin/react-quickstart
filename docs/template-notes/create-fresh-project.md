@@ -4,12 +4,6 @@ Using React CLI.
 
 Note that this project will not be up to date in terms of structure or dependencies. While the original Create React App repo was used to create this repo and that will be will updated regularly hopefully.
 
-If you want to generate a fresh app using the latest template availabe, run the command below. This is based on React's [Getting Started](https://create-react-app.dev/docs/getting-started/) guide.
+If you want to generate a fresh app using the latest template available see [Create React app](https://michaelcurrin.github.io/dev-cheatsheets/cheatsheets/javascript/packages/react/create-react-app.html) instructions in my Dev Sheatsheets.
 
-```sh
-$ npx create-react-app my-app
-$ cd my-app
-$ yarn start
-```
-
-Then, if you want, add the docs and CI setup from this template project to your new repo.
+If you want, you can copy the docs and CI setup from this template project to your new repo.
