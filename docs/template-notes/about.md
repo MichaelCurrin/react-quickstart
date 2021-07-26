@@ -12,7 +12,7 @@
 
 Click the button below. That will fork it to your own repos.
 
-[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/react-quickstart/generate)
+- [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/react-quickstart/generate)
 
 Then follow the [Installation](/docs/installation.md) and [Usage](/docs/usage.md) docs to install and run the app so you can view it locally in your browser.
 
