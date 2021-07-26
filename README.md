@@ -34,8 +34,7 @@
 
 
 ## How to create a new React app
-
-### Use this project as a template
+> Use this project as a template
 
 <div align="center">
 
@@ -44,20 +43,6 @@
 [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/react-quickstart/generate)
 
 </div>
-
-### Create a fresh project
-
-Note that this project will not be up to date in terms of structure as dependencies, in comparison to the original Create React App repo was is used to generate the code for this repo.
-
-So you may prefer to generate a fresh app using the command below from the [Getting Started](https://create-react-app.dev/docs/getting-started/) guide.
-
-```sh
-$ npx create-react-app my-app
-$ cd my-app
-$ yarn start
-```
-
-Then add the docs and CI setup based on this React Quickstart template repo.
 
 
 ## Documentation
@@ -70,17 +55,7 @@ To install, run and deploy the app, see this project's docs:
 
 </div>
 
-### Template notes
-
-To learn how to use this project and see how a React project works - see the [About](/docs/template-notes/about.md) page of the template's notes.
-
-See a similar template which uses the same basic React app and adds **React Router** to it, to support a multi-page site.
-
-- [![MichaelCurrin - react-router-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=react-router-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/react-router-quickstart)
-
-Interested in **Deno**? See my version of this React template rebuilt to work with Deno:
-
-- [![MichaelCurrin - react-deno-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=react-deno-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/react-deno-quickstart)
+To learn how to use this project and see how a React project works, see the [Template notes](/docs/template-notes/) section of the docs.
 
 
 ## License
