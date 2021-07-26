@@ -30,6 +30,11 @@
     <a href="https://michaelcurrin.github.io/react-quickstart/">
         <img src="/sample.png" alt="Sample screenshot of React site" title="Go to demo site" width="500" />
     </a>
+    
+<br>
+    
+[![View demo - React Quickstart](https://img.shields.io/badge/View_demo-React_App_Quickstart-blue?style=for-the-badge)](https://michaelcurrin.github.io/react-quickstart/)
+    
 </div>
 
 
@@ -37,8 +42,6 @@
 > Use this project as a template
 
 <div align="center">
-
-[![View demo - React Quickstart](https://img.shields.io/badge/View_demo-React_App_Quickstart-blue?style=for-the-badge)](https://michaelcurrin.github.io/react-quickstart/)
 
 [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/react-quickstart/generate)
 
