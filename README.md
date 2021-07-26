@@ -28,7 +28,7 @@
 
 <div align="center">
     <a href="https://michaelcurrin.github.io/react-quickstart/">
-        <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" width="600" />
+        <img src="/sample.png" alt="Sample screenshot of React site" title="Go to demo site" width="500" />
     </a>
 </div>
 
