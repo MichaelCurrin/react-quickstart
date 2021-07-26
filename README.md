@@ -27,10 +27,12 @@
 ## Preview
 
 <div align="center">
-    <a href="https://michaelcurrin.github.io/react-quickstart/">
-        <img src="/sample.png" alt="Sample screenshot of React site" title="Go to demo site" width="500" />
-    </a>
     
+<a href="https://michaelcurrin.github.io/react-quickstart/">
+    <img src="/sample.png" alt="Sample screenshot of React site" title="Go to demo site" width="500" />
+</a>
+
+<br/>
 <br/>
     
 [![View demo - React Quickstart](https://img.shields.io/badge/View_demo-React_App_Quickstart-blue?style=for-the-badge)](https://michaelcurrin.github.io/react-quickstart/)
