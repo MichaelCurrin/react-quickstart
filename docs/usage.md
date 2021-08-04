@@ -50,20 +50,29 @@ Time:        4.116s
 Ran all test suites related to changed files.
 ```
 
-
-## Formatting
-
-Prettier is not included as a direct dependency of this project, but you can apply Prettier formatting by running this. This works without Prettier installed anywhere yet.
+Or using `make`.
 
 ```sh
-$ yarn fmt
+$ make test
 ```
 
-Single quotes are configured, to keep inline with the original `create-react-app`.
 
-## Linting
+## Format
 
-This app does **not** supporting running ESLint alone.
+Prettier is not included as a direct dependency of this project. But, you can apply Prettier formatting by running this. This will download Prettier or use a globally-installed Prettier.
+
+```sh
+$ yarn fmt:fix
+```
+
+The single quotes option is configured there, to keep inline with the original `create-react-app`.
+
+
+## Lint
+
+Hopefully you can still get the linting you need from the `react-scripts` commands.
+
+Unfortunately, this app does **not** supporting running ESLint alone. Here is what happens if you try:
 
 ```sh
 $ npx eslint .
@@ -74,5 +83,3 @@ Oops! Something went wrong! :(
 ```
 
 ESLint has been configured, but if you try to use it, you get warnings about packages which are missing. The idea is not to diverge from the original `create-react-app` packages, so this template does not add extra parts for linting.
-
-Hopefully you can still get the linting you need from the `react-scripts` commands.
