@@ -2,7 +2,8 @@
   "name": "react-quickstart",
   "version": "1.4.0",
   "scripts": {
-    "fmt": "npx prettier --single-quote -w src",
+    "fmt:check": "npx prettier --single-quote -c src",
+    "fmt:fix": "npx prettier --single-quote -w src",
     "test": "react-scripts test",
     "test:all": "react-scripts test --watchAll=false",
     "start": "react-scripts start",
