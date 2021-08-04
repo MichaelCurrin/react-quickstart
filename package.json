@@ -4,7 +4,7 @@
   "scripts": {
     "fmt": "npx prettier --single-quote -w src",
     "test": "react-scripts test",
-    "test-all": "react-scripts test --watchAll=false",
+    "test:all": "react-scripts test --watchAll=false",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "preversion": "git fetch --tags && yarn test-all",
