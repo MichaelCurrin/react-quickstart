@@ -23,7 +23,7 @@ This project is setup to automatically build and deploy to the `gh-pages` branch
 
 Do a **push** to `master` or merge a **Pull Request** against `master` to trigger the CI/CD build.
 
-A build will always happen, but the app will only deploy on a push to `master`, ignoring a Pull Request.
+A _build_ and _tests_ will always run, for quality control, but the app will only _deploy_ on a push to `master` directly (or a merged Pull Request).
 
 See the [workflow](/.github/workflows/main.yml) file to manage this.
 
@@ -33,8 +33,8 @@ See the [workflow](/.github/workflows/main.yml) file to manage this.
 After a successful build, you can configure your site to be served on GitHub Pages as follows:
 
 1. Go to repo _Settings_.
-2. Go to _GitHub Pages_ section.
-3. Enable the site on `gh-pages` branch `root` directory.
-4. Wait for your site to build.
-5. Check the Actions tab on the repo for the status of the build.
-6. Open the public URL when it is done. e.g. https://MichaelCurrin.github.io/react-quickstart
+1. Go to _GitHub Pages_ section.
+1. Enable the site on `gh-pages` branch the `root` directory.
+1. Wait for your site to build.
+1. Check the _Actions_ tab on the repo for the status of the build.
+1. Open the public URL when it is done. e.g. https://MichaelCurrin.github.io/react-quickstart
