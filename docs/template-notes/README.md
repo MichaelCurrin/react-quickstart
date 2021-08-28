@@ -8,4 +8,4 @@ Quickstart:
 - [Commands](commands.md)
 - [Related projects](related-projects.md)
 
-If you create a repo repo from this template, you can delete this directory and keep the files that are in the [docs](/docs/) root.
+If you create a new repo from this template, you can delete this directory and keep the files that are in the [docs](/docs/) root.
