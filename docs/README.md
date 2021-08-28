@@ -1,5 +1,5 @@
 # Documentation
-> How to setup, run, test and deploy the app
+> How to set up, run, test and deploy the app
 
 - [Installation](installation.md)
 - [Usage](usage.md)
