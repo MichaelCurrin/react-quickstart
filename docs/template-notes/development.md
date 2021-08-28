@@ -23,5 +23,5 @@
     - Customize this value for your repo. Or remove it if not needed.
     - This value not just metadata but actually gets used on the build. The `index.html` in the output includes `src="/react-quickstart/static/js/..."` for example.
     - For a remote environment, this project is serving on GH Pages on a subpath. Therefore if you omit the `homepage` value, this site will build **incorrectly**. Assets will be looked up like `/manifest.json`, instead of `/react-quickstart/manifest.json`.
-    - Based on my testing, the build doesn't seem to care whether the value is just a path (`/react-quickstart/`) or the full URL (`https://michaelcurrin.github.io/react-quickstart/`). Which means this approach works outside of GH Pages to.
-- I renamed `App.js` file to `App.jsx`. Same for the `Foo` component. No imports were affected.
+    - Based on my testing, the build doesn't seem to care whether the value is just a path (`/react-quickstart/`) or the full URL (`https://michaelcurrin.github.io/react-quickstart/`). Which means that this approach works outside of GH Pages too.
+- I renamed the `App.js` file to `App.jsx`. Same for the `Foo` component. No imports were affected.
