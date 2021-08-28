@@ -5,7 +5,7 @@
 - The [Toggle](/src/components/Toggle.jsx) component is based on part of this video: [Get started with React in under 10 minutes](https://youtu.be/K02AkMbV1HM).
 - This project uses 3 main dependencies (they all came with the React CLI quickstart app).
     - `react` - for the core application.
-    - `react-dom` - for using `ReactDom` in [App.js](/src/App.js).
+    - `react-dom` - for using `ReactDom` in [App.jsx](/src/App.jsx).
     - `react-scripts` - used to setup the `script` commands in [package.json](/package.json).
 - There are 3 testing libraries - these were moved to dev dependencies.
 - The dependency versions are based on the create-react-app ones. Despite this, there still many errors and warnings, which I will not bother to resolve because the app works fine without fixing these and the package versions are determined externally.
