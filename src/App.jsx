@@ -1,6 +1,7 @@
 import './App.css';
 import Counter from './components/Counter';
 import GHBadge from './components/GHBadge';
+import Parent from "./components/Parent";
 import Toggle from './components/Toggle';
 import logo from './logo.svg';
 
@@ -16,13 +17,13 @@ export default function App() {
         <GHBadge username="MichaelCurrin" repoName="react-quickstart" />
       </header>
 
-      <div>
+      <main>
         <Counter />
 
         <Toggle text="Dynamic text" />
-        <br />
-        <br />
-      </div>
+
+        <Parent />
+      </main>
     </div>
   );
 }
