@@ -6,8 +6,10 @@ export default function GHBadge(props) {
   const altText = `${username} - ${repoName}`;
 
   return (
-    <a href={repoUrl}>
-      <img src={badgeUrl} alt={altText} />
-    </a>
+    <div className="GHPage">
+      <a href={repoUrl}>
+        <img src={badgeUrl} alt={altText} />
+      </a>
+    </div>
   );
 }
