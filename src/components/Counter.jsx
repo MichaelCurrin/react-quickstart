@@ -13,14 +13,13 @@ export default function Counter() {
         We increment a numeric counter here, based on the{' '}
         <a href="https://reactjs.org/docs/hooks-state.html">
           Using the State Hook
-        </a>{' '}tutorial in the React docs.
+        </a>{' '}
+        tutorial in the React docs.
       </p>
 
       <p>You clicked {count} times</p>
 
-      <button onClick={() => setCount(count + 1)}>
-        Click me
-      </button>
+      <button onClick={() => setCount(count + 1)}>Click me</button>
     </div>
   );
 }

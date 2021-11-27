@@ -6,10 +6,8 @@ export default function Child({ value, setValue }) {
       <p>Value: {value}</p>
 
       <div>
-        <button onClick={() => setValue(456)}>
-          Set to 456
-        </button>
+        <button onClick={() => setValue(456)}>Set to 456</button>
       </div>
     </div>
-  )
+  );
 }

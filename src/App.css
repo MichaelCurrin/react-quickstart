@@ -35,9 +35,8 @@ main {
 }
 
 .GHPage {
-  padding: 10px
+  padding: 10px;
 }
-
 
 @keyframes App-logo-spin {
   from {

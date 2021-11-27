@@ -6,21 +6,22 @@ export default function Parent() {
 
   const setOuterValue = (v) => {
     setValue(v);
-  }
+  };
 
   return (
     <div className="Parent">
       <h2>Parent component</h2>
 
-      <p>Demo of passing data between a child and parent component - both the value and state hook function are passed to the child to be used there</p>
+      <p>
+        Demo of passing data between a child and parent component - both the
+        value and state hook function are passed to the child to be used there
+      </p>
 
       <div>
-        <button onClick={() => setOuterValue(123)}>
-          Set to 123
-        </button>
+        <button onClick={() => setOuterValue(123)}>Set to 123</button>
       </div>
 
       <Child value={value} setValue={setValue} />
     </div>
-  )
+  );
 }
