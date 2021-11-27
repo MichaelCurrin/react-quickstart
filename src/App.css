@@ -1,3 +1,7 @@
+p a {
+  color: #41b7d8;
+}
+
 .App {
   text-align: center;
 }
@@ -26,9 +30,14 @@
   justify-content: center;
 }
 
-p a {
-  color: #41b7d8;
+main {
+  padding: 1em;
 }
+
+.GHPage {
+  padding: 10px
+}
+
 
 @keyframes App-logo-spin {
   from {
