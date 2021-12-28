@@ -11,7 +11,7 @@ export default function Toggle(props) {
     <>
       <h2>Toggle component</h2>
 
-      <p>A simple functional component.</p>
+      <p><i>A simple functional component.</i></p>
 
       <button onClick={showHide}>Toggle</button>
 
