@@ -1,6 +1,8 @@
 import { useState } from 'react';
 
 export default function Toggle(props) {
+  const { text } = props;
+
   const [isHidden, setIsHidden] = useState(false);
 
   const showHide = () => {
@@ -11,11 +13,13 @@ export default function Toggle(props) {
     <>
       <h2>Toggle component</h2>
 
-      <p><i>A simple functional component.</i></p>
+      <p><i>A simple functional component to change a boolean value and show or a hide a value</i></p>
 
-      <button onClick={showHide}>Toggle</button>
+      <button onClick={showHide}>Click me</button>
 
-      <p>{!isHidden && props.text}</p>
+      <p><code>isHidden: {isHidden.toString()}</code></p>
+
+      <p>{!isHidden && text}</p>
     </>
   );
 }
