@@ -7,7 +7,7 @@ export default function Counter() {
     <>
       <h2>Counter component</h2>
 
-      <p>A simple functional component.</p>
+      <p><i>A simple functional component.</i></p>
 
       <p>
         We increment a numeric counter here, based on the{' '}
