@@ -4,7 +4,7 @@ export default function Counter() {
   const [count, setCount] = useState(0);
 
   return (
-    <div>
+    <>
       <h2>Counter component</h2>
 
       <p>A simple functional component.</p>
@@ -20,6 +20,6 @@ export default function Counter() {
       <p>You clicked {count} times</p>
 
       <button onClick={() => setCount(count + 1)}>Click me</button>
-    </div>
+    </>
   );
 }
