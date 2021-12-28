@@ -12,10 +12,12 @@ export default function Parent() {
     <div className="Parent">
       <h2>Parent component</h2>
 
-      <p><i>
-        Demo of passing data between a child and parent component - both the
-        value and state hook function are passed to the child to be used there
-      </i></p>
+      <p>
+        <i>
+          Demo of passing data between a child and parent component - both the
+          value and state hook function are passed to the child to be used there
+        </i>
+      </p>
 
       <div>
         <button onClick={() => setOuterValue(123)}>Set to 123</button>
