@@ -20,7 +20,7 @@ export default function App() {
       <main>
         <Counter />
 
-        <Toggle text="Dynamic text" />
+        <Toggle text="Make me disappear" />
 
         <Parent />
       </main>
