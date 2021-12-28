@@ -12,7 +12,7 @@ export default function Counter() {
       <p><code>count: {count}</code></p>
 
       <button onClick={() => setCount(count + 1)}>+</button>
-      {' '}
+      &nbsp;
       <button onClick={() => setCount(count - 1)}>-</button>
     </>
   );
