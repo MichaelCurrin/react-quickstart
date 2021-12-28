@@ -8,7 +8,7 @@ export default function Toggle(props) {
   };
 
   return (
-    <div>
+    <>
       <h2>Toggle component</h2>
 
       <p>A simple functional component.</p>
@@ -16,6 +16,6 @@ export default function Toggle(props) {
       <button onClick={showHide}>Toggle</button>
 
       <p>{!isHidden && props.text}</p>
-    </div>
+    </>
   );
 }
