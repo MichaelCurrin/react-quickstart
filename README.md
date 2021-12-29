@@ -40,14 +40,17 @@
 </div>
 
 
-## How to create a new React app
-> Use this project as a template
+## Create a new React app
+
+Use this project as a template:
 
 <div align="center">
 
 [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/react-quickstart/generate "Use this template")
 
 </div>
+
+If you need something more minimal, see this [Minimal](https://michaelcurrin.github.io/code-cookbook/recipes/javascript/packages/react/minimal.html) app recipe.
 
 
 ## Documentation
@@ -69,4 +72,4 @@ Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCur
 
 <!-- TODO remove this line when creating a project from this template -->
 
-This project is based on the template from the React CLI. I have added my own docs, the deploy flow and made very minor changes to the app.
+This project is based on the template from the React CLI. I have added my own docs, the deploy flow, made minor changes to the app, plus some additions to components.
