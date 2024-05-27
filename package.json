@@ -9,8 +9,8 @@
     "test:all": "react-scripts test --watchAll=false",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "preversion": "git fetch --tags && npm run test:all",
-    "version": "npm run build",
+    "preversion": "git fetch --tags && yarn test:all",
+    "version": "yarn build",
     "postversion": "git push --follow-tags"
   },
   "dependencies": {
