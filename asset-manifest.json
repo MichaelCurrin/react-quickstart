@@ -1,23 +1,16 @@
 {
   "files": {
-    "main.css": "/react-quickstart/static/css/main.7ba4ed21.chunk.css",
-    "main.js": "/react-quickstart/static/js/main.ce284b8f.chunk.js",
-    "main.js.map": "/react-quickstart/static/js/main.ce284b8f.chunk.js.map",
-    "runtime-main.js": "/react-quickstart/static/js/runtime-main.615f8e2b.js",
-    "runtime-main.js.map": "/react-quickstart/static/js/runtime-main.615f8e2b.js.map",
-    "static/js/2.275ff322.chunk.js": "/react-quickstart/static/js/2.275ff322.chunk.js",
-    "static/js/2.275ff322.chunk.js.map": "/react-quickstart/static/js/2.275ff322.chunk.js.map",
-    "static/js/3.c3a90b99.chunk.js": "/react-quickstart/static/js/3.c3a90b99.chunk.js",
-    "static/js/3.c3a90b99.chunk.js.map": "/react-quickstart/static/js/3.c3a90b99.chunk.js.map",
+    "main.css": "/react-quickstart/static/css/main.8b74e39f.css",
+    "main.js": "/react-quickstart/static/js/main.e2c37244.js",
+    "static/js/453.934d326a.chunk.js": "/react-quickstart/static/js/453.934d326a.chunk.js",
+    "static/media/logo.svg": "/react-quickstart/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "/react-quickstart/index.html",
-    "static/css/main.7ba4ed21.chunk.css.map": "/react-quickstart/static/css/main.7ba4ed21.chunk.css.map",
-    "static/js/2.275ff322.chunk.js.LICENSE.txt": "/react-quickstart/static/js/2.275ff322.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/react-quickstart/static/media/logo.103b5fa1.svg"
+    "main.8b74e39f.css.map": "/react-quickstart/static/css/main.8b74e39f.css.map",
+    "main.e2c37244.js.map": "/react-quickstart/static/js/main.e2c37244.js.map",
+    "453.934d326a.chunk.js.map": "/react-quickstart/static/js/453.934d326a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.615f8e2b.js",
-    "static/js/2.275ff322.chunk.js",
-    "static/css/main.7ba4ed21.chunk.css",
-    "static/js/main.ce284b8f.chunk.js"
+    "static/css/main.8b74e39f.css",
+    "static/js/main.e2c37244.js"
   ]
 }
