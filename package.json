@@ -1,6 +1,6 @@
 {
   "name": "react-quickstart",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "scripts": {
     "fmt:check": "npx prettier --single-quote -c src",
     "fmt:fix": "npx prettier --single-quote -w src",
