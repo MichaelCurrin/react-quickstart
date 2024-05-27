@@ -1,8 +1,8 @@
-import { useState } from 'react';
-import Child from './Child';
+import { useState } from "react";
+import Child from "./Child";
 
 export default function Parent() {
-  const [value, setValue] = useState('');
+  const [value, setValue] = useState("");
 
   const setOuterValue = (v) => {
     setValue(v);

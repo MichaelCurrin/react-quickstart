@@ -1,9 +1,9 @@
-import './App.css';
-import Counter from './components/Counter';
-import GHBadge from './components/GHBadge';
-import Parent from './components/Parent';
-import Toggle from './components/Toggle';
-import logo from './logo.svg';
+import "./App.css";
+import Counter from "./components/Counter";
+import GHBadge from "./components/GHBadge";
+import Parent from "./components/Parent";
+import Toggle from "./components/Toggle";
+import logo from "./logo.svg";
 
 export default function App() {
   return (
