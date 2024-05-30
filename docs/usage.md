@@ -50,12 +50,6 @@ Time:        4.116s
 Ran all test suites related to changed files.
 ```
 
-Or using `make`.
-
-```sh
-$ make test
-```
-
 
 ## Format
 
